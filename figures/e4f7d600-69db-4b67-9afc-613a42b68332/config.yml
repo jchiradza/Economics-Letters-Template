@@ -1,0 +1,19 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/e4f7d600-69db-4b67-9afc-613a42b68332/e4f7d600-69db-4b67-9afc-613a42b68332.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/165852/articles/190765/master/file/figures/e4f7d600-69db-4b67-9afc-613a42b68332/e4f7d600-69db-4b67-9afc-613a42b68332.png"
