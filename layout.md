@@ -15,3 +15,6 @@ t8l0ddpuc3o.html
 qg0f183t568.html
 13n0g6n7g3.html
 s14dmord0og.html
+1g4ba51dq9.html
+figures/82a2fefa-7d36-42e4-a8b1-732845b4ea7f
+a39l2mdaolo.html
