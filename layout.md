@@ -33,4 +33,6 @@ m89n54g7q0g.html
 7jt8agqfr08.html
 su2nr8qogug.html
 i6f3vu6vc0g.html
+figures/gvt zz
+ta5vl1hj1v.html
 mq9uo5hhkl.html
