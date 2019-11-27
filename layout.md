@@ -19,3 +19,5 @@ s14dmord0og.html
 figures/82a2fefa-7d36-42e4-a8b1-732845b4ea7f
 a39l2mdaolo.html
 necs1odbukg.html
+figures/e4f7d600-69db-4b67-9afc-613a42b68332
+p3k1lktnp48.html
